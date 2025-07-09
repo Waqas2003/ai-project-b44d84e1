@@ -1,0 +1,1 @@
+// Add some basic JavaScript functionality for the website
